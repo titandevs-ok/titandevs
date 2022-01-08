@@ -1,0 +1,17 @@
+{
+  "name": "AlluSoft",
+  "description": "AlluSoft's web",
+  "version": "1.0.0",
+  "homepage": "https://allusoft.net",
+  "author": "Allusoft",
+  "license": "Creative Tim License <www.creative-tim.com/license>",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.3",
+    "gulp-open": "^2.1.0"
+  }
+}
