@@ -89,6 +89,11 @@ Created using IcoMoon - icomoon.io
   list icons
 -------------------------*/
 
+.nav-centered {
+  display: flex;
+  align-items: center;
+}
+
 /*------------------------
   spinning icons
 -------------------------*/
